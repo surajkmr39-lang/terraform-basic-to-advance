@@ -1,0 +1,6 @@
+# Copy this file to `terraform.tfvars` and fill in the values. Do NOT commit real credentials.
+
+aws_access_key = "YOUR_ACCESS_KEY_ID"
+aws_secret_key = "YOUR_SECRET_ACCESS_KEY"
+region         = "us-east-2"
+bucket_name    = "my-unique-bucket-name-12345"
